@@ -1,0 +1,18 @@
+h1{
+font-size: 20pt;
+}
+.headers{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: weight bold;
+}
+.secondheaders{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+#paragraphs{
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    background-color: rgba(235, 225, 216, 0.897);
+}
